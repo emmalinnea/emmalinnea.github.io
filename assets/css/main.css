@@ -73,6 +73,11 @@ input, select, textarea {
 }
 
 /* Basic */
+	figcaption {
+		display: block;
+		text-align: center;
+		font-size: smaller;
+  	}
 
 	@-ms-viewport {
 		width: device-width;
